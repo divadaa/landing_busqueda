@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Disponibilidad inmediata',
-    paragraph: 'Urbanos, compactos, familiares, SUVs, furgonetas o cualquier otro vehículo que se adapte a sus necesidades'
+    title: 'Rentabilidad inmediata',
+    paragraph: 'Buscamos urbanos, compactos, familiares, SUVs, furgonetas o cualquier otro vehículo'
   };
 
   return (
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Flexibilidad
                     </h4>
                   <p className="m-0 text-sm">
-                    Desde 1 día a 2 años, nos adaptamos a tus plazos y todo sin ninguna penalización o permanencia.
+                    Desde 1 día a 2 años, nos adaptamos a tus necesidades y todo sin ninguna penalización o permanencia.
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Todo Incluido
+                    Precios cerrados
                     </h4>
                   <p className="m-0 text-sm">
-                    Preocupate solo por la gasolina, una cuota cerrada sin incrementos ni sorpresas.
+                    Una cuota cerrada sin incrementos ni sorpresas.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Tranquilidad
                     </h4>
                   <p className="m-0 text-sm">
-                    Seguro a todo riesgo, asistencia en carretera, mantenimientos, ITV e impuestos incluidos.
+                    Seguro a todo riesgo, asistencia en carretera con cobertura internacional especifico para la alquiler entre particulares y empresas.
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Cambio de coche
+                    Flotas
                     </h4>
                   <p className="m-0 text-sm">
-                    Nos adaptamos a tus cambios de necesidades, sin problemas en cambiar tu vehículo por otro modelo o categoría.
+                    Estamos especializados en rentabilizar flotas de Pymes y autónomos.
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Facilidades de pago
+                    Facilidades de cobro
                     </h4>
                   <p className="m-0 text-sm">
-                    El pago que mejor te convenga, disponemos de diferentes opciones de pago y financiación.
+                    El cobro que mejor te convenga, disponemos de diferentes opciones de pago y adelantos.
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Quédatelo
+                    Compramos tu coche
                     </h4>
                   <p className="m-0 text-sm">
-                    Si valoras comprar alguno de nuestros coches, también tienes disponible está opción.
+                    Si valoras vender alguno de tus coches o flotas, también tienes disponible está opción.
                     </p>
                 </div>
               </div>

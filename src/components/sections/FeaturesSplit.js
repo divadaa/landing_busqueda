@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Híbridos, eléctricos, diesel, gasolina, GLP.',
-    paragraph: 'Sin restriciones en zonas de limitación de emisiones con nuestros vehículos híbridos o eléctricos y optimizando gastos para trayectos largos con nuestros diesel o GLP.'
+    title: 'Comience con un coche que ya posee o compre uno para compartir',
+    paragraph: 'Drivium brinda a pymes y autónomos las herramientas y los recursos que necesitan para crear una cartera pequeña y exitosa de automóviles para compartir en el mercado y la oportunidad de ganar dinero con su flotas de coches.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Turismos
+                  Seguridad
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Para tu ocio o trabajo
+                  Nos hacemos cargo de su inversión
                   </h3>
                 <p className="m-0">
-                  Somos especialistas en utilitarios y SUVs premiums, como Mini Cooper, BMW X2, Honda Jazz. Berlinas para viajar como Skoda Superb o Mercedes Clase C están en nuestro stock.
+                Atención al cliente las 24 horas del día, los 7 días de la semana, un equipo experimentado de confianza y seguridad para ayudarlo en el alquiler de su vehículo, y asesoramiento comercial individual para compartir inteligencia de mercado y ayudarlo a construir una inversión inteligente.
                   </p>
               </div>
               <div className={
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Comerciales
+                  Precios cerrados
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Sin obstáculos en tu trabajo
+                  Sin letra pequeña
                   </h3>
                 <p className="m-0">
-                  Furgonetas pequeñas, medianas y grandes. Con asientos o solo de carga. Nuestro stock es muy variado, desde Peugeot Bipper hasta Renault Master.
+                  Contrato claro, con rentabilidades aseguradas según los plazos en los que gestionamos su coche o flotas. Con diferentes formas de pago.
                   </p>
               </div>
               <div className={
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   En cualquier lugar
                   </h3>
                 <p className="m-0">
-                  Entregamos y cambiamos en cualquier punto de la peninsula. Además no hay restricciones de uso, conduce por cualquier pais europeo.
+                  Recogemos y devolvemos en cualquier punto de la peninsula. Y nos adaptamos a sus horarios.
                   </p>
               </div>
               <div className={
