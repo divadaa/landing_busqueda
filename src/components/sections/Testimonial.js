@@ -62,7 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Para nuestra empresa es esencial tener una flota flexible, necesitamos furgonetas y vehículos urbanos de fines comerciales con alta demanda de cambios que exige nuestro trabajo y clientes. Estamos muy contentos con estás ventajas que nos aporta Drivium.
+                    — Para nuestra empresa es esencial optimizar nuestra flota, normalmente en meses de invierno nuestras furgonetas están paradas, de está manera disponemos de rendimientos sobre ellas todo el año. 
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -79,7 +79,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Estoy de Erasmus en España y el servicio que me ofrece Drivium es excelente, no tengo que traer mi vehículo desde Francia y solo utilizo sus servicios durante mi periodo lectivo. Merci
+                    — Trabajamos en el sector de la construcción con muchos proyectos en Francia, este servicio nos permite ganar dinero con vehículos que tenemos parado en España mientras trabajamos en proyectos externos.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -96,7 +96,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Mi trabajo como autónomo me obliga a disponer dos tipos de vehículos, la opción de suscripción me permite usar cualquier tipo de vehículo cuando lo necesito (furgonetas o coches para viajes), con la posibilidad de deducirme estos gastos fiscalmente por mi trabajo.
+                    — Mi trabajo como autónomo me obliga a disponer dos tipos de vehículos, la opción de alquiler de vehículos me permite rentar mi vehículo mientras uso mi furgoneta.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
